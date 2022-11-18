@@ -34,6 +34,9 @@ The required modules to run this data file is included in the requirements.txt f
     - find average gallons sold per year
     - find average gallons sold per type of beverage
     - find average gallons sold per state
+    - find gallons per capita, multiplying those two columns
+    - find the smallest value of gallons
+    - find the median value of gallons
 -most of these have user input that allows the user to determine which value they want to see the total of
 
 ## Requirement 4: Visualize your Data
