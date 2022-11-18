@@ -9,7 +9,7 @@ The data set provided was used to create the Surveillance Report: **Alcohol Sale
 I downloaded the .xlsx data file provided by the researchers and converted that into a CSV file for ease. Once that was done, I was able to analyze the data to find the total gallons of alcohol sold by state, the total gallons of alcohol sold by year, and the total gallons of alchol grouped by state and type of beverage. There are expressions written for the user to also find out data calculations on their own as well. 
 
 
-This project was completed by mostly using Jupyter Notebook, but should work with any editor. 
+This project was completed by mostly using Jupyter Notebook, but US_Alcohol_Sales.ipynb or US_Alcohol_Sales-3.py should work with any editor. 
 
 The required modules to run this data file is included in the requirements.txt file.
 
