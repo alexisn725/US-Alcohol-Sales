@@ -243,6 +243,36 @@ stateavg = df.groupby('State')['Gallons'].mean()
 print(stateavg)
 
 
+# In[54]:
+
+
+#expression for Gallons per capita
+
+gallonpercap = df['Gallons'] * df['PerCapita']
+
+print(gallonpercap)
+
+
+# In[57]:
+
+
+#expression for smallest value of Gallons
+
+gallonmin = df['Gallons'].min()
+
+print(gallonmin)
+
+
+# In[56]:
+
+
+#xpressions for median value of Gallons
+
+gallonmedian = df['Gallons'].median()
+
+print(gallonmedian)
+
+
 # # Graphs 
 
 # In[27]:
